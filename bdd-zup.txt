@@ -1,0 +1,12 @@
+Cenário – Validar buscar
+
+Dado que o usuario acessou o site do comércio eletrônico
+Quando buscar por um determinado produto
+E clicar em pesquisar
+Então a lista de produto é exibida.
+
+
+Cenário – Enviar o produto para o carrinho
+Dado que selecionei o produto
+Quando clico em comprar 
+Então o produto é enviado para o carrinho
